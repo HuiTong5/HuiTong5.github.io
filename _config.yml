@@ -21,7 +21,7 @@ repository               : "HuiTong5/HuiTong5.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.pdf"
+  avatar           : "profile.png"
   name             : "Hui Tong"
   pronouns         : # example: "he/him"  
   bio              : ""
