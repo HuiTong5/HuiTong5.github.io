@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 4"
+title: "Following up the afterglow: strategy for X-ray observation triggered by gravitational wave events"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: https://arxiv.org/abs/2005.11076
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
