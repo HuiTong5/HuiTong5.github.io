@@ -12,4 +12,4 @@ First author papers below, full publications can be found on [ADS](https://ui.ad
 
 **Tong, H.**, Galaudage, S., Thrane, E., Population properties of spinning black holes using the gravitational-wave transient catalog 3 (2022), [PRD](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103019) 106, 103019
 
-Liu, M.-X., **Tong, H** (co-firsr author) and et al., Following up the afterglow: strategy for X-ray observation triggered by gravitational wave events (2021), [RAA](https://iopscience.iop.org/article/10.1088/1674-4527/21/12/308) 21 308  
+Liu, M.-X., **Tong, H** (co-first author) and et al., Following up the afterglow: strategy for X-ray observation triggered by gravitational wave events (2021), [RAA](https://iopscience.iop.org/article/10.1088/1674-4527/21/12/308) 21 308  
