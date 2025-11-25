@@ -6,7 +6,11 @@ author_profile: true
 ---
 First author papers below, full publications can be found on [ADS](https://ui.adsabs.harvard.edu/user/libraries/srDwMYn2RrC_1FciH2HzSQ).
 
-**Tong, H.**, Fishbach, M., Thrane, E., Spinning spectral sirens: Robust cosmological measurement using mass-spin correlations in the binary black hole population (2025), arxiv: [2502.10780](https://arxiv.org/abs/2502.10780)
+**Tong, H.**, Callister, T. A., Fishbach M., Thrane E., Antonini F., Stevenson S.,Romero-Shaw, I. M. , Dosopoulou F., A subpopulation of low-mass, spinning black holes: signatures of dynamical assembly (2025), arxiv [2511.05316](https://arxiv.org/abs/2511.05316)
+
+**Tong, H.**, et al., Evidence of the pair instability gap in the distribution of black hole masses (2025), arxiv [2509.04151](https://arxiv.org/abs/2509.04151)
+
+**Tong, H.**, Fishbach, M., Thrane, E., Spinning spectral sirens: Robust cosmological measurement using mass-spin correlations in the binary black hole population (2025), [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/adcec5) 985 220
 
 **Tong, H.**, Guttman, N., Clarke, T.A., Lasky, P.D., Thrane, E., Payne, E., Nathan, R., Farr, B., Fishbach, M., Ashton, G., Di Marco, V., Transdimensional inference for gravitational-wave astronomy with Bilby (2025), [ApJS](https://iopscience.iop.org/article/10.3847/1538-4365/ad9deb) 276 50
 
